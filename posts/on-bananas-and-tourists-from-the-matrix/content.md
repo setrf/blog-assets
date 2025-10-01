@@ -3,6 +3,8 @@ title: On bananas and tourists from the matrix
 author: Mert Gulsun
 date: 2025-08-31T04:36:00.000Z
 slug: on-bananas-and-tourists-from-the-matrix
+cover: https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/cover-2608d6e5.jpg
+og_image: https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/og-2608d6e5.jpg
 ---
 
 Last weekend my dear friend Barış and I went down to Santa Cruz. I am slowly uncovering that Bay Area has an interesting geography, so an hour in the car is often all it takes to go from snow-bright ridgelines to a beach with glitter on the water. 
