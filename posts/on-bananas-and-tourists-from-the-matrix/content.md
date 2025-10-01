@@ -9,7 +9,7 @@ Last weekend my dear friend Barış and I went down to Santa Cruz. I am slowly u
 
 We found a great coffee spot, and let the ocean do that reset thing it does.
 
-<figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/img-9484-jpeg-2608d6e5.jpeg)</figure><figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/img-9500-medium-jpeg-2608d6e5.jpeg)</figure>Back home that night I scrolled through our shots while my tech-infested timeline kept feeding me demos and papers. That is when the thought landed. We had driven an hour to change the backdrop. With the newest tools popping out I could be even faster.
+<div><div><figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/img-9484-jpeg-2608d6e5.jpeg)</figure></div><div><figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/img-9500-medium-jpeg-2608d6e5.jpeg)</figure></div></div>Back home that night I scrolled through our shots while my tech-infested timeline kept feeding me demos and papers. That is when the thought landed. We had driven an hour to change the backdrop. With the newest tools popping out I could be even faster.
 
 I had been playing with Nano Banana (a compact image model that shocked the community, later revealed to be [Gemini 2.5 Flash Image](https://developers.googleblog.com/en/introducing-gemini-2-5-flash-image/)). Same hair and earrings, same jacket and little quirks, carried from one scene to the next. It felt like moving a paper cutout version of a person across a stack of postcards.
 
@@ -27,7 +27,7 @@ With a little bit of back-and-forth, [**thistouristdoesnotexist**](https://thist
 
 Refresh, and a synthetic traveler appears at a landmark. Refresh again, and another character shows up somewhere new. It feels like a scrapbook from a parallel trip never taken.
 
-<figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-png-2608d6e5.png)</figure><figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-png-2608d6e5.png)</figure>A few things stood out while I was play-testing:
+<div><div><figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-png-2608d6e5.png)</figure></div><div><figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-png-2608d6e5.png)</figure></div></div>A few things stood out while I was play-testing:
 
 - Character identity holds steady from scene to scene. Hair, accessories, and proportions carry over.- Architecture survives with more fidelity than I expected. Domes, arches, filigree, and skyline edges read as the real location rather than a generic backdrop.- Poses and light usually make sense. The stance looks like a tourist pose, shadows fall in the right direction, and reflections often line up with the environment.
 There are wobbles. A stray hand blends into a railing. A face drifts slightly. I smile when that happens, because it reminds me that these tourists are stitched from matrix multiplications on a TPU, not post-cards from a friend.
