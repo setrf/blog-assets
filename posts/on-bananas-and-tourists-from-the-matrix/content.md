@@ -7,11 +7,11 @@ cover: https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas
 og_image: https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/og-992f5583_2608d6e5.jpg
 ---
 
-Last weekend my dear friend Barış and I went down to Santa Cruz. I am slowly uncovering that Bay Area has an interesting geography, so an hour in the car is often all it takes to go from snow-bright ridgelines to a beach with glitter on the water. 
+Last weekend, Barış and I went down to Santa Cruz. I am slowly uncovering that Bay Area has an interesting geography, so an hour in the car is often all it takes to go from snow-bright ridgelines to a beach with glitter on the water. 
 
 We found a great coffee spot, and let the ocean do that reset thing it does.
 
-| <figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-2608d6e5-2e94518d_2608d6e5.jpeg)</figure> | <figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-2608d6e5-0e35f6fa_2608d6e5.jpeg)</figure> |
+| <figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-2608d6e5-5faa0c58_2608d6e5.jpeg)</figure> | <figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-2608d6e5-61f852c7_2608d6e5.jpeg)</figure> |
 | --- | --- |
 
 Back home that night I scrolled through our shots while my tech-infested timeline kept feeding me demos and papers. That is when the thought landed. We had driven an hour to change the backdrop. With the newest tools popping out I could be even faster.
@@ -32,7 +32,7 @@ With a little bit of back-and-forth, [**thistouristdoesnotexist**](https://thist
 
 Refresh, and a synthetic traveler appears at a landmark. Refresh again, and another character shows up somewhere new. It feels like a scrapbook from a parallel trip never taken.
 
-| <figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-2608d6e5-f0f4d89e_2608d6e5.png)</figure> | <figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-2608d6e5-c5f44ac7_2608d6e5.png)</figure> |
+| <figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-2608d6e5-0f0c55d5_2608d6e5.png)</figure> | <figure>![image](https://raw.githubusercontent.com/setrf/blog-assets/main/posts/on-bananas-and-tourists-from-the-matrix/images/image-2608d6e5-17e85783_2608d6e5.png)</figure> |
 | --- | --- |
 
 A few things stood out while I was play-testing:
